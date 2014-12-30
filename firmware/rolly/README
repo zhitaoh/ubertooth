@@ -1,0 +1,1 @@
+This is a simple example firmware that repeats rolling on the three LEDS and switches them off at once. It initializes the USB in order to support device firmware upgrade (DFU). It initializes also the CC2400 radio but does not use it.
